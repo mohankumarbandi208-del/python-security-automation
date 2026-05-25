@@ -1,0 +1,1 @@
+asia-south1,3,5,42.689,50.00,DEGRADED
